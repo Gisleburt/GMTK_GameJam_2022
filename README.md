@@ -9,6 +9,14 @@ About the Game Jam
 Dev Log
 -------
 
+### 2022-07-15 - 17:55
+
+Excite! Ok the plan is:
+
+Day 1 (from 6pm): Ideaate and plan
+Day 2: Build a working game
+Day 3 (until 6pm): Juice
+
 ### 2022-07-15 - 17:35
 
 Hello! I'm going to use this README to write up my process as I go along. So far, following the rules, I've prepped my
