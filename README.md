@@ -1,5 +1,5 @@
-GMTK_GameJam_2022 - Roll of the Dice
-====================================
+GMTK_GameJam_2022 - Roll of the DiceR
+=====================================
 
 About the Game Jam
 ------------------
@@ -8,6 +8,11 @@ About the Game Jam
 
 Dev Log
 -------
+
+### Day 1 - 19:34
+
+Ok, I've had Pizza and I've decided to get something rolling and see where it takes me. I'm still thinking "Roll of the
+DiceR" but I don't know if the player is the Dicer, or the one at risk of being Diced.
 
 ### Day 1 - 18:10
 
