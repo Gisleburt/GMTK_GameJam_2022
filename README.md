@@ -1,6 +1,11 @@
 GMTK_GameJam_2022
 =================
 
+About the Game Jam
+------------------
+[Rules and Details here](https://itch.io/jam/gmtk-jam-2022)
+[Theme will be announced here](https://www.youtube.com/watch?v=NiSa-D5wy18)
+
 Dev Log
 -------
 
