@@ -15,13 +15,18 @@ ingredients, drop yourself into the pot to cook the stew.
 
 ### Controls
 
-Keyboard
+Keyboard + Mouse
 - W S A D => Movement
 - Hold Left Mouse Button => Fire a knife towards the mouse
 - Release Left Mouse Button => Recall the blade (releasing any walls)
 
 Dev Log
 -------
+
+### Day 1 - Midnight
+
+Time for bed! Got the motion down (needs a lot of tweaking), and have knife to use as a projectile facing toward the
+mouse. Tomorrow I'll try to get the projectile firing and returning. Then we can start adding food.
 
 ### Day 1 - 21:24
 
