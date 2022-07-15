@@ -9,6 +9,16 @@ About the Game Jam
 Dev Log
 -------
 
+### Day 1 - 21:24
+
+I've got it!
+
+I'm going to make a golf game. The hole will be a pot, the ball will be knives, and you have to chop up food for a stew
+on your way around the course. More food is better taste, there's no limit to how many times you can hit the ball but
+there are hungry customers waiting.
+
+I've [created a Trello board](https://trello.com/b/ptV8qYoP/roll-the-dicer) to try to keep focused.
+
 ### Day 1 - 20:47
 
 Found a good tutorial on making a rolling ball here: https://www.youtube.com/watch?v=Y69FOMRGwUs
