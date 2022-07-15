@@ -6,6 +6,20 @@ About the Game Jam
 - [Rules and Details here](https://itch.io/jam/gmtk-jam-2022)
 - [The theme is Roll of The Dice](https://www.youtube.com/watch?v=NiSa-D5wy18)
 
+About the Game
+--------------
+
+You are the DiceR, a ball of knives. Your job is to make a stew. Roll over ingredients to dice them up and attach
+them to your blades. You can shoot a knife out to grab distant ingredients or attach to walls. Once you have enough
+ingredients, drop yourself into the pot to cook the stew.
+
+### Controls
+
+Keyboard
+- W S A D => Movement
+- Hold Left Mouse Button => Fire a knife towards the mouse
+- Release Left Mouse Button => Recall the blade (releasing any walls)
+
 Dev Log
 -------
 
