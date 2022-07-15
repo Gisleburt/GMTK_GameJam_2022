@@ -9,23 +9,29 @@ About the Game Jam
 Dev Log
 -------
 
+### Day 1 - 20:47
+
+Found a good tutorial on making a rolling ball here: https://www.youtube.com/watch?v=Y69FOMRGwUs
+
+Unfortunately my internet died while I was watching it.
+
 ### Day 1 - 19:34
 
-Ok, I've had Pizza and I've decided to get something rolling and see where it takes me. I'm still thinking "Roll of the
-DiceR" but I don't know if the player is the Dicer, or the one at risk of being Diced.
+Ok, I've had Pizza, and I've decided to get something rolling and see where it takes me. I'm still thinking "Roll of the
+DiceR" but I don't know if the player is the DiceR, or the one at risk of being Diced.
 
 ### Day 1 - 18:10
 
-Ok, no excesive gore. I'm not in it to win it, but I'm also do not want to get disqualified or cause people to be upset
-and I myself find knives a bit difficult. Back to the drawing board. Not eacy as I've not got stuck on that idea. I
-could go very cartoony, maybe make the things you're cutting food and it litterally gets turned into small cubes.
+Ok, no excessive gore. I'm not in it to win it, but I also do not want to get disqualified or cause people to be upset
+and I myself find knives a bit difficult. Back to the drawing board. Not easy as I've not got stuck on that idea. I
+could go very cartoon-y, maybe make the things you're cutting food, and it literally gets turned into small cubes.
 
-No, thats silly. Let me think.
+No, that's silly. Let me think.
 
-- A first person shooter where your gun rolls a dice when you reload?
-- A first person game where you throw dice and they do something when they land depending on the face?
+- A first-person shooter where your gun rolls a die when you reload?
+- A first-person game where you throw dice, and they do something when they land depending on the face?
 - A marble run with a chonky dice (lack of control might not be great fun)
-- A tower defence game where you roll a dice and have to place a random tower
+- A tower defence game where you roll a die and have to place a random tower
 - A luck pushing game where the more you roll the more you win but the more chance of losing
 
 I keep coming back to the twin stick knife idea. A ball with knives on it, you can crash into enemies to kill them,
@@ -36,15 +42,15 @@ Ok, going to make food and let the ideas stew.
 ### Day 1 - 18:05
 
 The theme is roll of the dice. Anyone who knows me knows I love board games and TTRPGs... but I don't think I could make
-a anything like that for the Jam. I'm entering solo so I want something very simple. Right now I'm thinking, does "Dice"
+anything like that for the Jam. I'm entering solo so I want something very simple. Right now I'm thinking, does "Dice"
 need to be the numbered kind, or could it be dice like to cut. Right now, I'm thinking something like a ball with knives
-but I want to check the rules on violence, and I worry that knives can be quite triggering for some people.
+but, I want to check the rules on violence, and I worry that knives can be quite triggering for some people.
 
 ### Day 1 - 17:55
 
 Excite! Ok the plan is:
 
-Day 1 (from 6pm): Ideaate and plan
+Day 1 (from 6pm): Ideate and plan
 Day 2: Build a working game
 Day 3 (until 6pm): Juice
 
