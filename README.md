@@ -23,6 +23,17 @@ Keyboard + Mouse
 Dev Log
 -------
 
+### Day 2 - 12:05
+
+Really proud of my dynamic food types. I should be able to add more if I like and only have to change one function
+library. I can already tell the art style of this game will be terrible, but not likely much I can do about that. This
+would look really nice with a cartoon-y cell shaded look.
+
+### Day 2 - 11:00
+
+Solved the problem with the DiceR not moving. It was something to do with using GameState as the parent of my GameState
+rather than GameStateBase
+
 ### Day 2 - 10:25
 
 While working on the pot logic, the DiceR stopped moving. No idea why, major set back. Thank goodness for git, I can
