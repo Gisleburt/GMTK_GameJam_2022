@@ -23,6 +23,12 @@ Keyboard + Mouse
 Dev Log
 -------
 
+### Day 2 - 8:00
+
+Woke up a bit earlier than I intended, 7:30, but I'm washed, watered and fed so its time to go. Going to start by
+rethinking the way I've done my Trello Board. I want to concentrate on the very basic game (pick stuff off and drop it
+off) first, adding the shooting mechanic after.
+
 ### Day 1 - Midnight
 
 Time for bed! Got the motion down (needs a lot of tweaking), and have knife to use as a projectile facing toward the
