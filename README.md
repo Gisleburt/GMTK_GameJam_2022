@@ -23,6 +23,11 @@ Keyboard + Mouse
 Dev Log
 -------
 
+### Day 2 - 10:25
+
+While working on the pot logic, the DiceR stopped moving. No idea why, major set back. Thank goodness for git, I can
+see it was something recent that broke, but I got into a bad habit of doing large commits so this'll set me back.
+
 ### Day 2 - 8:00
 
 Woke up a bit earlier than I intended, 7:30, but I'm washed, watered and fed so its time to go. Going to start by
