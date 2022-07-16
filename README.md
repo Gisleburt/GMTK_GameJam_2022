@@ -23,6 +23,28 @@ Keyboard + Mouse
 Dev Log
 -------
 
+### Day 2 - 21:15
+
+While I was walking over to the pop-up store I read up on the maths and it's actually pretty simple, I just need to
+cross the normal of the plane with a vector pointing straight up, this produces a vector pointing across the plane.
+Crossing that vector with the normal again gives me one that points down the plane. Then I can just apply a force along
+that vector which is the mass multiplied by (1 - normal.z)
+
+### Day 2 - 19:00
+
+Ok, I realised that slopes weren't working correctly. I made a mistake using a character for the DiceR. The character
+only reacts to slopes in one of two ways, it either is "walkable" in which case you can stand still on it, there's no
+downward force, or its not walkable, in which case there is a downward force, but you can't move up it at all (even
+though the character is not walking, they're being pushed around). I think I should be able to apply a downward force
+myself, but the maths isn't working. I'm going to take a break for dinner and pop to a friends pop-up store.
+
+### Day 2 - 15:42
+
+Things are going well now. Food gets diced (needs juicing, stuff just appears) and I've sped up movement, and made the
+ball roll down ramps. (Also my Deliveroo turned up 😂)
+
+On to the UI
+
 ### Day 2 - 14:15
 
 Due to an outage at Deliveroo, I had to walk to town to get some food. Minor set back. I'm having a little break from
