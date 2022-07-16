@@ -23,6 +23,11 @@ Keyboard + Mouse
 Dev Log
 -------
 
+### Day 3 - 23:30
+
+Ending a bit earlier tonight to try to rest up for tomorrow. Missing a timer, but otherwise the game is officially a
+game with controls, a win state and a lose state (as well as scoring and a little humour thrown in for fun)
+
 ### Day 2 - 21:15
 
 While I was walking over to the pop-up store I read up on the maths and it's actually pretty simple, I just need to
