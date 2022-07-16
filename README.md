@@ -23,6 +23,14 @@ Keyboard + Mouse
 Dev Log
 -------
 
+### Day 2 - 14:15
+
+Due to an outage at Deliveroo, I had to walk to town to get some food. Minor set back. I'm having a little break from
+the problem which I'm currently trying to solve, moving child actors into the world. For some reason destroying the
+parent actor after detaching them still removes the children, even though they're in the world. Might just make the
+parent invisible, or maybe once they're attached to the player the problem will go away.
+
+
 ### Day 2 - 12:05
 
 Really proud of my dynamic food types. I should be able to add more if I like and only have to change one function
