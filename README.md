@@ -23,6 +23,14 @@ Keyboard + Mouse
 Dev Log
 -------
 
+### Day 3 - 12:40
+
+With a little over 5 hours to go, I'm going to spend the next 3 hours polishing as much as I can, and then I'll use the
+final 2 hours to make sure the itch.io page looks as good as possible.
+
+I'm going to throw up a quick unpolished build and try to get some feedback too. Not a lot I can change now, but any
+bugs still need to be squashed.
+
 ### Day 3 - 12:00
 
 It's officially a game! There's a bug on the "Lose" menu that needs fixing, you have to press Escape to get out, the
