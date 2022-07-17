@@ -23,6 +23,14 @@ Keyboard + Mouse
 Dev Log
 -------
 
+### Day 3 - 9:15
+
+I have a plan for the map, it's not _very_ interesting, but it will do. If I had more time I'd add interactive elements
+to the map, and it definitely would have been better to do either a golf style game with multiple simple maps or if the
+throwing knife had worked, and I could use that for locomotion, but I'm happy with how much I've achieved by myself.
+
+Lets get this map made!
+
 ### Day 3 - 8:50
 
 Timer done and nicely presented. Need to shrink the pot's collision sphere as you can clip it while bouncing over the
