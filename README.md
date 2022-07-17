@@ -13,6 +13,14 @@ You are the DiceR, a ball of knives. Your job is to make a stew. Roll over ingre
 them to your blades. You can shoot a knife out to grab distant ingredients or attach to walls. Once you have enough
 ingredients, drop yourself into the pot to cook the stew.
 
+Missing Features and other Suggestions
+--------------------------------------
+
+- Grapple Blade - The blade that points to the pot was originally supposed to be a grappy that could grab food or latch
+  on to surfaces to help you turn.
+- MagnatizeR (Martin) - A challenge involving magnets that pull on the metal DiceR
+- ObliteRatoR (Martin) - Spinning obstacles that know you away 
+
 ### Controls
 
 Keyboard + Mouse
@@ -22,6 +30,11 @@ Keyboard + Mouse
 
 Dev Log
 -------
+
+### Day 3 - 15:00
+
+I used Stylized Render System to cell shade everything, and it really looks much better (not great, I'm still no
+artist), but I'm really happy with it. There is now what I would call a submittable version of it on itch.io.
 
 ### Day 3 - 12:40
 
