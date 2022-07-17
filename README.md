@@ -23,7 +23,18 @@ Keyboard + Mouse
 Dev Log
 -------
 
-### Day 3 - 23:30
+### Day 3 - 8:50
+
+Timer done and nicely presented. Need to shrink the pot's collision sphere as you can clip it while bouncing over the
+pot. Also going to try to find all Rs and make them capitalised.
+
+### Day 3 - 8:30
+
+Time to wrap this up! The major goals for the day are getting the timer working, building a level, and getting a
+tutorial in. I'm going to can the firing mechanism and have the extra knife point towards the pot. If there's time I
+still need sound effects, music and game juice.
+
+### Day 2 - 23:30
 
 Ending a bit earlier tonight to try to rest up for tomorrow. Missing a timer, but otherwise the game is officially a
 game with controls, a win state and a lose state (as well as scoring and a little humour thrown in for fun)
