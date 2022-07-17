@@ -31,7 +31,12 @@ Keyboard + Mouse
 Dev Log
 -------
 
-### Day 3 - 15:00
+### Day 3 - 16:05
+
+The game runs horribly, and I'm not sure why. I did at least figure out how to package only things I care about so
+load times are a little less awful than they were.
+
+### Day 3 - 15:45
 
 I used Stylized Render System to cell shade everything, and it really looks much better (not great, I'm still no
 artist), but I'm really happy with it. There is now what I would call a submittable version of it on itch.io.
