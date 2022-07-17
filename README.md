@@ -23,6 +23,12 @@ Keyboard + Mouse
 Dev Log
 -------
 
+### Day 3 - 12:00
+
+It's officially a game! There's a bug on the "Lose" menu that needs fixing, you have to press Escape to get out, the
+back button doesn't work. Going to leave that for now and move on to polish, get it looking nice, see if I can add sound
+effects.
+
 ### Day 3 - 10:10
 
 Turns out making a font with a distance field in Unreal is really hard. I'll use Roboto for now and maybe come back to
