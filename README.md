@@ -23,6 +23,11 @@ Keyboard + Mouse
 Dev Log
 -------
 
+### Day 3 - 10:10
+
+Turns out making a font with a distance field in Unreal is really hard. I'll use Roboto for now and maybe come back to
+that later. I also just had my first Editor crash, so you know it's the final hours of a competition. 😅
+
 ### Day 3 - 9:15
 
 I have a plan for the map, it's not _very_ interesting, but it will do. If I had more time I'd add interactive elements
